@@ -1,0 +1,6 @@
+[submodule "third_party/jepa"]
+	path = third_party/jepa
+	url = https://github.com/raywangruihua/jepa.git
+[submodule "third_party/LTX-2"]
+	path = third_party/LTX-2
+	url = https://github.com/raywangruihua/LTX-2.git

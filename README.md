@@ -1,7 +1,5 @@
 # V-JEPA Embedding Inversion Attack
 
-Investigating video reconstruction from an intercepted V-JEPA embedding, with no query access to the target model.
-
 I target the V-JEPA (ViT-L variant) model, and try to reconstruct videos by mapping V-JEPA latents to LTX-2 VAE latent space, then decoding those videos. The use of generative AI is very heavy in this project in order to test ideas, generate code and write reports to speed up work.
 
 Refer to the [summary](SUMMARY.md) for a more detailed report.
